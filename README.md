@@ -1,5 +1,3 @@
-# Titanic-Survival-Prediction
-Exploratory data analysis, feature engineering, and comparative supervised machine learning for Titanic passenger survival prediction.
 # Titanic Survival Prediction
 
 ### Exploratory Data Analysis, Feature Engineering, and Classification Model Evaluation
